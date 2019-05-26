@@ -1,5 +1,5 @@
 ---
-title: 我的JavaScript简略学习笔记01(基本语法、数据类型)
+title: 重学JS简略笔记01(基本语法、数据类型)
 date: 2018-11-08 04:12:11
 tags: [《JavaScript 标准参考教程-阮一峰》,学习笔记]
 categories: [学习笔记,JavaScript]

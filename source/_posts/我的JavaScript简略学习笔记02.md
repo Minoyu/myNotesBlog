@@ -1,5 +1,5 @@
 ---
-title: 我的JavaScript简略学习笔记02(运算符)
+title: 重学JS简略笔记02(运算符)
 date: 2019-01-23 21:50:27
 tags: [《JavaScript 标准参考教程-阮一峰》,学习笔记]
 categories: [学习笔记,JavaScript]

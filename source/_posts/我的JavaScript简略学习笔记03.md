@@ -1,5 +1,5 @@
 ---
-title: 我的JavaScript简略学习笔记03(语法专题)
+title: 重学JS简略笔记03(语法专题)
 date: 2019-01-24 21:07:27
 tags: [《JavaScript 标准参考教程-阮一峰》,学习笔记]
 categories: [学习笔记,JavaScript]
